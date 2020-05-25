@@ -1,0 +1,9 @@
+﻿  List.cpp
+C:\Users\79805\Desktop\C++\List\List\List.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79805\Desktop\C++\List\List\List.cpp(57,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79805\Desktop\C++\List\List\List.cpp(95,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79805\Desktop\C++\List\List\List.cpp(109,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79805\Desktop\C++\List\List\List.cpp(122,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79805\Desktop\C++\List\List\List.cpp(129,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79805\Desktop\C++\List\List\List.cpp(123): warning C4715: <lambda_c61871f4599af4dd8b8e5cf8f61e06f9>::operator(): значение возвращается не при всех путях выполнения
+  List.vcxproj -> C:\Users\79805\Desktop\C++\List\Debug\List.exe
